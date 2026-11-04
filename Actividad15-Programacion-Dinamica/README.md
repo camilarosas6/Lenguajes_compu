@@ -4,7 +4,7 @@
 
 - **Nombre:** Camila Rodríguez Rosas
 - **Número de cuenta:** 194100-0
-- **Materia:** Lenguajes y Computación
+- **Materia:** Lenguajes de Computación
 
 ## Objetivo
 
